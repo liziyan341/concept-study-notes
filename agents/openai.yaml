@@ -1,0 +1,4 @@
+interface:
+  display_name: "理解型自学笔记"
+  short_description: "沿用中文自学笔记形式，结合内容板块、推导、理解题、图解实验与手算自查"
+  default_prompt: "请用 $concept-study-notes 将这份资料整理成中文自学笔记，包含理解题、可视化和动手理解练习。"
